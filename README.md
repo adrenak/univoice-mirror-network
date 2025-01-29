@@ -1,3 +1,4 @@
+### ⚠️ This repository has been archived as UniVoice Mirror network has been moved to the [main UniVoice repository](https://github.com/adrenak/univoice)
 ## UniVoice Mirror Network
 
 This repository contains the [Mirror](https://www.github.com/vis2k/mirror) based implementation of the IChatroomNetwork interface in [UniVoice](https://www.github.com/adrenak/univoice)
